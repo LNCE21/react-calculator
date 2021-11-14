@@ -1,4 +1,5 @@
 # React Calculator to get started with React
+### For the layout I am going to be using CSS grid
 
 # Getting Started with Create React App
 
